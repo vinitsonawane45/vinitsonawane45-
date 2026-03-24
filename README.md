@@ -126,10 +126,17 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- STATS: removed rank_icon=github (not supported on all deployments) -->
-<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8" height="170"/>
+<!-- STATS: wrapped in HTML table — &nbsp; is stripped by GitHub markdown, table is the only reliable side-by-side method -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -146,8 +153,9 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- TROPHY: column=4 is the reliable sweet spot for GitHub's width -->
-<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&row=2"/>
+<!-- TROPHY: tokyonight has solid bg (no-bg=false) so text is always visible on both light/dark GitHub -->
+<!-- row=2 removed — auto-renders however many trophies exist, never shows empty broken rows -->
+<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8"/>
 
 </div>
 
