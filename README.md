@@ -1,13 +1,14 @@
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vinit%20Sonawane&fontSize=70&fontColor=fff&fontAlignY=35&desc=🤖%20AI%20Engineer%20·%20🧠%20ML%20Researcher%20·%20🚀%20Full%20Stack%20Dev&descAlignY=58&descSize=20&animation=twinkling" />
+<!-- BANNER: desc uses proper URL encoding, no raw emoji in URL params -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vinit%20Sonawane&fontSize=70&fontColor=fff&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=20&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=false&width=700&lines=🔬+Training+models+that+actually+work+in+production;🧠+LLMs+%7C+RAG+%7C+Computer+Vision+%7C+MLOps;⚡+React+%7C+FastAPI+%7C+Django+%7C+AWS+%7C+GCP;🌙+Best+debugger+after+midnight..." />
+<!-- TYPING SVG: no emoji in lines param, pipes encoded as %7C -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building%20real-world%20AI%20solutions%20from%20scratch;LLMs%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20MLOps;React%20%7C%20FastAPI%20%7C%20Django%20%7C%20AWS%20%7C%20GCP;Best%20debugger%20after%20midnight..." />
 
 </div>
 
@@ -26,7 +27,6 @@
 
 ## 🧬 About Me
 
-<!-- FIX #1: Replaced broken githubusercontent GIF with stable Giphy CDN link -->
 <img align="right" alt="AI Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
@@ -60,7 +60,6 @@ class VInitSonawane:
 
 <br clear="right"/>
 
-<!-- FIX #9: Restored the "Current Radar" table for better visual info -->
 ### 🎯 Current Radar
 
 | Status | Focus |
@@ -90,7 +89,6 @@ class VInitSonawane:
 
 </div>
 
-<!-- FIX #6: Moved h2 outside div so alignment is consistent with AI/ML section -->
 ## 🌐 Web · Backend · Cloud
 
 <div align="center">
@@ -115,7 +113,6 @@ class VInitSonawane:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<!-- FIX #5: Removed Docker (not in original stack). Restored correct badges only. -->
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -129,7 +126,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+<!-- STATS: removed rank_icon=github (not supported on all deployments) -->
+<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8" height="170"/>
 
@@ -137,8 +135,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- FIX #7: Replaced bare hex 888 with proper %23888888 encoding for streak stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff7&sideLabels=%23888888&dates=%23888888" height="170"/>
+<!-- STREAK: removed invalid sideNums param; all hex values without # or %23 -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00fff7&sideLabels=888888&dates=888888" height="170"/>
 
 </div>
 
@@ -148,7 +146,7 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- FIX #2: Changed column=3 → column=4 (sweet spot for GitHub's ~820px width) -->
+<!-- TROPHY: column=4 is the reliable sweet spot for GitHub's width -->
 <img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&row=2"/>
 
 </div>
@@ -159,8 +157,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- FIX #3: Removed emoji from custom_title (breaks URL on some browsers) -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&area_color=00fff7&hide_border=true&custom_title=Vinit%27s%20Contribution%20Timeline"/>
+<!-- ACTIVITY GRAPH: removed invalid area_color param; custom_title uses %27 not emoji -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&hide_border=true&custom_title=Vinit%27s%20Contribution%20Timeline"/>
 
 </div>
 
@@ -168,8 +166,7 @@ class VInitSonawane:
 
 ## 🐍 Contribution Snake
 
-<!-- FIX #4: Added note so broken image state is explained to visitors -->
-> ⚡ The snake animates once the GitHub Action below has run at least once.
+> ⚡ The snake animates once the GitHub Action below has run at least once. Until then, the image will appear broken — that is expected.
 
 <div align="center">
 
@@ -182,7 +179,7 @@ class VInitSonawane:
 </div>
 
 <details>
-<summary>⚙️ Enable Snake Animation — GitHub Action Setup</summary>
+<summary>⚙️ Click to set up the Snake GitHub Action</summary>
 
 <br/>
 
@@ -212,11 +209,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+After saving the file, go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time.
+
 </details>
 
 ---
 
-<!-- FIX #8: Updated year from 2025 → 2026 -->
 ## 🧭 2026 Learning Roadmap
 
 ```text
@@ -247,17 +245,6 @@ Multi-modal AI      ██████░░░░░░░░░░░░░░
 | 📖 **Learn in Public** | My GitHub IS my resume. Every commit = growth. |
 | 🔬 **Depth > Breadth** | Three tools mastered beats thirty tools skimmed. |
 | 🌐 **Build to Impact** | Code nobody uses is an expensive hobby. |
-
-</div>
-
----
-
-<!-- FIX #10: Restored random dev quote widget from original README -->
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
