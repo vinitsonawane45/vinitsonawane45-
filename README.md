@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- BANNER: desc uses proper URL encoding, no raw emoji in URL params -->
+<!-- BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vinit%20Sonawane&fontSize=70&fontColor=fff&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=20&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-<!-- TYPING SVG: no emoji in lines param, pipes encoded as %7C -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building%20real-world%20AI%20solutions%20from%20scratch;LLMs%20%7C%20RAG%20%7C%20Computer%20Vision%20%7C%20MLOps;React%20%7C%20FastAPI%20%7C%20Django%20%7C%20AWS%20%7C%20GCP;Best%20debugger%20after%20midnight..." />
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building+real-world+AI+solutions+from+scratch;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+MLOps;React+%7C+FastAPI+%7C+Django+%7C+AWS+%7C+GCP;Best+debugger+after+midnight..." />
 
 </div>
 
@@ -126,14 +126,13 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- STATS: wrapped in HTML table — &nbsp; is stripped by GitHub markdown, table is the only reliable side-by-side method -->
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8" height="170"/>
     </td>
   </tr>
 </table>
@@ -142,8 +141,7 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- STREAK: removed invalid sideNums param; all hex values without # or %23 -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00fff7&sideLabels=888888&dates=888888" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00fff7&sideLabels=888888&dates=888888&sideNums=ffffff" height="170"/>
 
 </div>
 
@@ -153,7 +151,6 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- TROPHY: rank=SECRET,SSS,SS,S,AAA,AA,A,B,C forces ALL trophies to render — default only shows A+ which may be empty for newer accounts -->
 <img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 </div>
@@ -164,8 +161,7 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- ACTIVITY GRAPH: removed invalid area_color param; custom_title uses %27 not emoji -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&hide_border=true&custom_title=Vinit%27s%20Contribution%20Timeline"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&hide_border=true&title=Vinit%27s%20Contribution%20Timeline"/>
 
 </div>
 
