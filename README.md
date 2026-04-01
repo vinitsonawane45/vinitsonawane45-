@@ -39,7 +39,7 @@ class VInitSonawane:
     LOCATION   = "Nagpur, India 🇮🇳"
 
     stack = {
-        "ai_ml"    : ["PyTorch", "TensorFlow", "LangChain", "RAG"],
+        "ai_ml"    : ["PyTorch", "TensorFlow", "LangChain", "RAG" "Langraph"],
         "backend"  : ["FastAPI", "Django", "Flask", "Laravel"],
         "frontend" : ["React", "TailwindCSS", "Bootstrap"],
         "cloud"    : ["AWS", "GCP", "Firebase", "Supabase"],
