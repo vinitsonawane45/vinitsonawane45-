@@ -39,7 +39,7 @@ class VInitSonawane:
     LOCATION   = "Nagpur, India 🇮🇳"
 
     stack = {
-        "ai_ml"    : ["PyTorch", "TensorFlow", "LangChain", "RAG" "Langraph"],
+        "ai_ml"    : ["PyTorch", "TensorFlow", "LangChain", "RAG", "LangGraph"],
         "backend"  : ["FastAPI", "Django", "Flask", "Laravel"],
         "frontend" : ["React", "TailwindCSS", "Bootstrap"],
         "cloud"    : ["AWS", "GCP", "Firebase", "Supabase"],
@@ -141,7 +141,7 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00fff7&sideLabels=888888&dates=888888&sideNums=ffffff" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00fff7&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&mode=daily&timezone=Asia%2FKolkata" height="170"/>
 
 </div>
 
