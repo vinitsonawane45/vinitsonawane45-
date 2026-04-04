@@ -139,9 +139,46 @@ class VInitSonawane:
 
 </div>
 
+---
+
+## 💻 Dev Activity Terminal
+
+<!-- UNIQUE TERMINAL WIDGET — replaces streak stats -->
+<!-- Paste this block into your README as-is. GitHub renders HTML in READMEs. -->
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&currStreakLabel=00fff7&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&mode=daily&timezone=Asia%2FKolkata" height="170"/>
+```
+  vinit@dev ~ github-stats
+  ──────────────────────────────────────────────────────────
+  $ ./github-stats --user vinitsonawane45
+
+    Fetching profile...
+
+    ┌─ Profile
+    │  name          →  Vinit Sonawane
+    │  role          →  AI Engineer · Full Stack Dev
+    │  location      →  Nagpur, India
+    │  status        →  open to opportunities
+    │
+    ├─ Activity
+    │  total commits  →  1000+
+    │  top language   →  Python
+    │  focus          →  LLMs · RAG · MLOps
+    │
+    ├─ Skills (2026 progress)
+    │  LLMs & Prompting  [████████████████████░]  90%
+    │  RAG Pipelines     [██████████████████░░░]  80%
+    │  LangChain/Agents  [████████████████░░░░░]  75%
+    │  MLOps & Cloud     [██████████████░░░░░░░]  65%
+    │  CUDA / GPU        [████████░░░░░░░░░░░░░]  40%
+    │  Multi-modal AI    [██████░░░░░░░░░░░░░░░]  30%
+    │
+    └─ Done  ✓  exit 0
+
+  $ _
+  ──────────────────────────────────────────────────────────
+```
 
 </div>
 
