@@ -7,7 +7,6 @@
 
 <div align="center">
 
-<!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building+real-world+AI+solutions+from+scratch;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+MLOps;React+%7C+FastAPI+%7C+Django+%7C+AWS+%7C+GCP;Best+debugger+after+midnight..." />
 
 </div>
@@ -141,18 +140,6 @@ class VInitSonawane:
 
 ---
 
-## 💻 Dev Activity Terminal
-
-<div align="center">
-
-<!-- STEP 1: Upload terminal.svg to your GitHub profile repo (same repo as this README) -->
-<!-- STEP 2: Replace YOUR_USERNAME below with: vinitsonawane45                          -->
-<img src="https://raw.githubusercontent.com/vinitsonawane45/vinitsonawane45/main/terminal.svg" width="100%" alt="Dev Activity Terminal"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -175,8 +162,6 @@ class VInitSonawane:
 
 ## 🐍 Contribution Snake
 
-> ⚡ The snake animates once the GitHub Action below has run at least once. Until then, the image will appear broken — that is expected.
-
 <div align="center">
 
 <picture>
@@ -188,7 +173,7 @@ class VInitSonawane:
 </div>
 
 <details>
-<summary>⚙️ Click to set up the Snake GitHub Action</summary>
+<summary>⚙️ Set up the Snake GitHub Action</summary>
 
 <br/>
 
@@ -218,7 +203,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After saving the file, go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time.
+Go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time.
 
 </details>
 
