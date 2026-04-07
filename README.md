@@ -125,16 +125,17 @@ class VInitSonawane:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8" height="170"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vinitsonawane45&theme=black-ice&hide_border=true&background=0d1117&stroke=00fff7&ring=ff6b35&fire=ff6b35&currStreakLabel=00fff7&sideLabels=00fff7&dates=c9d1d9" height="180"/>
 
 </div>
 
@@ -144,7 +145,7 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
