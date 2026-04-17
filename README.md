@@ -1,120 +1,123 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinit%20Sonawane&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Full%20Stack%20Dev&descAlignY=60&descSize=17&animation=fadeIn"/>
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vinit%20Sonawane&fontSize=70&fontColor=fff&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=20&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-sonawane-14b00632a/)
-[![Gmail](https://img.shields.io/badge/Gmail-vinitsonawane76-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinitsonawane76@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vinitsonawane45-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinitsonawane45)
-![Visitors](https://komarev.com/ghpvc/?username=vinitsonawane45&color=302b63&style=flat-square&label=Profile+Views)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Roles-2ea44f?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Building+real-world+AI+solutions+from+scratch;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+MLOps;React+%7C+FastAPI+%7C+Django+%7C+AWS+%7C+GCP;Best+debugger+after+midnight..." />
 
 </div>
 
 <br/>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-sonawane-14b00632a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitsonawane76@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitsonawane45)
+![Profile Views](https://komarev.com/ghpvc/?username=vinitsonawane45&color=00fff7&style=for-the-badge&label=VISITORS)
+
+</div>
+
 ---
 
-## Who I Am
+## 🧬 About Me
 
-I'm a **final-year Computer Science student** from Nagpur, India — building production-grade AI systems, not just notebooks. My focus is end-to-end: from training custom models to deploying scalable backends that real users interact with.
+<img align="right" alt="AI Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I believe the gap between "ML student" and "AI engineer" is shipping. So I ship.
+```python
+#!/usr/bin/env python3
+# vinit.py — system profile
 
-> *"The best model is the one that's in production — not the one still training."*
+class VInitSonawane:
+
+    ROLE       = "Computer Science Final Year • AI Engineer"
+    LOCATION   = "Nagpur, India 🇮🇳"
+
+    stack = {
+        "ai_ml"    : ["PyTorch", "TensorFlow", "LangChain", "RAG", "LangGraph"],
+        "backend"  : ["FastAPI", "Django", "Flask", "Laravel"],
+        "frontend" : ["React", "TailwindCSS", "Bootstrap"],
+        "cloud"    : ["AWS", "GCP", "Firebase", "Supabase"],
+        "data"     : ["Pandas", "NumPy", "OpenCV", "MLflow"],
+    }
+
+    currently = [
+        "Building LLM-powered real-world apps",
+        "Exploring CUDA kernels + multi-modal AI",
+        "Deploying scalable ML systems on cloud",
+    ]
+
+    motto = "Build fast. Break things. Learn faster. 🚀"
+
+    def __repr__(self):
+        return "Vinit Sonawane — turning ideas into AI"
+```
+
+<br clear="right"/>
+
+### 🎯 Current Radar
+
+| Status | Focus |
+|--------|-------|
+| 🔥 Building | LLM-powered apps with RAG pipelines |
+| 📚 Learning | LangChain · Vector DBs · CUDA kernels |
+| 🚀 Deploying | Scalable backends on AWS & GCP |
+| 🧪 Exploring | Multi-modal AI & custom model training |
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 AI · ML · Data Science Stack
 
-> Real work. Real metrics. No toy demos.
+<div align="center">
 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-### 🔍 RAG Document Assistant
-**LangChain · FAISS · FastAPI · GCP · Python**
+</div>
 
-End-to-end RAG pipeline that lets users query private PDF collections with source-attributed answers. Built a custom chunking strategy and retrieval re-ranker on top of FAISS. Deployed as a stateless FastAPI service on GCP Cloud Run — scales to zero, spins up in under 2s.
+## 🌐 Web · Backend · Cloud
 
-- 📊 **94% answer relevance** on internal 200-question eval set
-- ⚡ Average response latency: **<1.8s** (including retrieval + generation)
-- 🗂️ Supports multi-doc collections up to 500MB
+<div align="center">
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/vinitsonawane45)
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
----
-
-### 👁️ Real-time Object Detector
-**PyTorch · YOLOv8 · OpenCV · CUDA · Python**
-
-Fine-tuned YOLOv8 on a custom annotated dataset (3,200 images) with a full OpenCV streaming inference pipeline. CUDA kernel profiling reduced inference overhead by 35%. Runs live at 30fps on edge hardware.
-
-- 📊 **mAP@0.5: 0.87** on held-out test set
-- 🎯 30fps real-time inference on Jetson-class hardware
-- 🔧 Custom NMS + post-processing pipeline
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/vinitsonawane45)
-
----
-
-### 🤖 Multi-Agent LLM Workflow
-**LangGraph · OpenAI API · React · Supabase · FastAPI**
-
-Autonomous agent system for complex task decomposition using LangGraph's stateful graph architecture. Agents collaborate across web search, code execution, and file I/O tools — with a shared memory layer in Supabase for cross-session context.
-
-- ⚙️ **~70% reduction** in manual task time during internal testing
-- 🧠 Persistent memory across sessions via Supabase vector store
-- 🛠️ Tool registry with hot-swappable agent capabilities
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/vinitsonawane45)
-
----
-
-### 📊 ML Experiment Dashboard
-**Django · React · MLflow · AWS EC2 · PostgreSQL**
-
-Full-stack platform for tracking, comparing, and serving ML experiments. Supports live metric streaming during training runs, side-by-side model comparison, and one-click REST API serving of registered models.
-
-- 🌐 **Live demo:** [your-deployed-url.com](https://github.com/vinitsonawane45)
-- 📈 Tracks 40+ model parameters and artifacts per run
-- 🚀 Deployed on AWS EC2 with Nginx + Gunicorn
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github)](https://github.com/vinitsonawane45)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square)](https://github.com/vinitsonawane45)
-
----
-
-## 🧠 Tech Stack
-
-```
-AI / ML        PyTorch · TensorFlow · LangChain · LangGraph · OpenCV
-               scikit-learn · MLflow · CUDA · Hugging Face · RAG · Agents
-
-Backend        FastAPI · Django · Flask · Laravel · REST APIs
-
-Frontend       React · TailwindCSS · Bootstrap · JavaScript
-
-Cloud & Infra  AWS (EC2, S3, Lambda, DynamoDB) · GCP · Firebase · Supabase
-               Vercel · Netlify · Docker · Nginx
-
-Databases      PostgreSQL · MongoDB · MySQL · SQLite · FAISS · Pinecone
-
-Languages      Python · JavaScript · PHP · SQL · Bash
-```
-
----
-
-## 📡 Right Now
-
-| | |
-|---|---|
-| 🔨 **Building** | Multi-agent orchestration systems with persistent memory and tool use |
-| 🔬 **Exploring** | CUDA kernel optimization · Multi-modal models (vision + language) |
-| 📖 **Reading** | Efficient attention papers · MLOps at scale |
-| 🎯 **Goal 2025** | Land an AI Engineering role where I can build things that matter |
+</div>
 
 ---
 
@@ -122,15 +125,17 @@ Languages      Python · JavaScript · PHP · SQL · Bash
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9d8df1&icon_color=9d8df1&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=9d8df1&text_color=c9d1d9&layout=compact&langs_count=7" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" height="180"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vinitsonawane45&theme=dark&hide_border=true&background=0d1117&ring=9d8df1&fire=9d8df1&currStreakLabel=9d8df1&sideLabels=888888&dates=888888" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vinitsonawane45&theme=black-ice&hide_border=true&background=0d1117&stroke=00fff7&ring=ff6b35&fire=ff6b35&currStreakLabel=00fff7&sideLabels=00fff7&dates=c9d1d9" height="180"/>
 
 </div>
 
@@ -140,7 +145,7 @@ Languages      Python · JavaScript · PHP · SQL · Bash
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
@@ -150,7 +155,7 @@ Languages      Python · JavaScript · PHP · SQL · Bash
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=9d8df1&line=9d8df1&point=ffffff&area=true&hide_border=true"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&hide_border=true&title=Vinit%27s%20Contribution%20Timeline"/>
 
 </div>
 
@@ -169,9 +174,11 @@ Languages      Python · JavaScript · PHP · SQL · Bash
 </div>
 
 <details>
-<summary>⚙️ Snake GitHub Action setup</summary>
+<summary>⚙️ Set up the Snake GitHub Action</summary>
 
-Create `.github/workflows/snake.yml`:
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake Animation
@@ -197,15 +204,50 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+Go to **Actions → Generate Snake Animation → Run workflow** to trigger it manually the first time.
+
 </details>
 
 ---
 
-## 💬 Let's Connect
+## 🧭 2026 Learning Roadmap
 
-I'm actively looking for **AI Engineering / ML Engineering roles** where I can work on problems that matter. If you're building something interesting in AI — let's talk.
+```text
+LLMs & Prompt Eng   ████████████████████░  90%
+RAG Pipelines       ██████████████████░░░  80%
+LangChain / Agents  ████████████████░░░░░  75%
+MLOps & Deployment  ██████████████░░░░░░░  65%
+CUDA / GPU kernels  ████████░░░░░░░░░░░░░  40%
+Multi-modal AI      ██████░░░░░░░░░░░░░░░  30%
+```
+
+---
+
+## 💡 The Way I Think
 
 <div align="center">
+
+> *"The best model is the one that ships — not the one still training."*
+
+</div>
+
+<div align="center">
+
+| Principle | My Take |
+|:---------:|:--------|
+| ⚡ **Ship Fast** | Done > Perfect. Production is the best teacher. |
+| 🤖 **AI-First Mindset** | Every problem I see — I ask: *can an LLM solve 80% of this?* |
+| 📖 **Learn in Public** | My GitHub IS my resume. Every commit = growth. |
+| 🔬 **Depth > Breadth** | Three tools mastered beats thirty tools skimmed. |
+| 🌐 **Build to Impact** | Code nobody uses is an expensive hobby. |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Let's Build Something Together
 
 [![LinkedIn](https://img.shields.io/badge/DM%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-sonawane-14b00632a/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitsonawane76@gmail.com)
@@ -215,5 +257,5 @@ I'm actively looking for **AI Engineering / ML Engineering roles** where I can w
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=fff&fontAlignY=65&animation=twinkling"/>
 </div>
