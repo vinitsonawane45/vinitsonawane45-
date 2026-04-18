@@ -64,7 +64,7 @@ class VInitSonawane:
 | Status | Focus |
 |--------|-------|
 | 🔥 Building | LLM-powered apps with RAG pipelines |
-| 📚 Learning | LangChain · Vector DBs · CUDA kernels |
+| 📚 Learning | LangChain · Vector DBs · CUDA kernels · AWS and GCP Cloud ·Langraph  |
 | 🚀 Deploying | Scalable backends on AWS & GCP |
 | 🧪 Exploring | Multi-modal AI & custom model training |
 
