@@ -65,7 +65,7 @@ class VInitSonawane:
 | Status | Focus |
 |--------|-------|
 | 🔥 Building | LLM-powered apps with RAG pipelines |
-| 📚 Learning | LangChain · Vector DBs · CUDA kernels · AWS and GCP Cloud ·Langraph  |
+| 📚 Learning | LangChain · Vector DBs · CUDA kernels · AWS and GCP Cloud · LangGraph |
 | 🚀 Deploying | Scalable backends on AWS & GCP |
 | 🧪 Exploring | Multi-modal AI & custom model training |
 
@@ -126,9 +126,9 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinitsonawane45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff7&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitsonawane45&hide_border=true&bg_color=0d1117&title_color=00fff7&text_color=c9d1d9&layout=compact&langs_count=8" height="180"/>
 
 </div>
 
@@ -136,7 +136,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vinitsonawane45&theme=black-ice&hide_border=true&background=0d1117&stroke=00fff7&ring=ff6b35&fire=ff6b35&currStreakLabel=00fff7&sideLabels=00fff7&dates=c9d1d9" height="180"/>
+<!-- FIX: switched from deprecated herokuapp to streak-stats.demolab.com -->
+<img src="https://streak-stats.demolab.com?user=vinitsonawane45&theme=black-ice&hide_border=true&background=0d1117&stroke=00fff7&ring=ff6b35&fire=ff6b35&currStreakLabel=00fff7&sideLabels=00fff7&dates=c9d1d9" height="180"/>
 
 </div>
 
@@ -156,7 +157,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&hide_border=true&title=Vinit%27s%20Contribution%20Timeline"/>
+<!-- FIX: switched to the maintained fork on github.com/ashutosh00710 -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&hide_border=true"/>
 
 </div>
 
